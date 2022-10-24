@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@100&display=swap');
+@font-face {
+  font-family: "Fira Code", serif;
+  src: url(/font/static/FiraCode-Regular.ttf);
+}
 * {
   box-sizing: border-box;
 }
