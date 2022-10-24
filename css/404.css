@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@100&display=swap');
 * {
   box-sizing: border-box;
 }
@@ -7,7 +7,7 @@
 }
 body {
   /* background: hsl(0, 0%, calc(var(--light) * 1%)); */
-  font-family: 'Roboto Mono', monospace;
+  font-family: "Fira Code", serif;
 }
 @media (prefers-color-scheme: dark) {
   :root {
@@ -26,7 +26,7 @@ a {
     color: hsl(0, 0%, calc(var(--light) * 1%));
     font-weight: bold;
     font-size: 200%;
-    font-family: "Roboto Mono";
+    font-family: "Fira Code", serif;
 }
 #app {
   display: flex;
