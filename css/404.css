@@ -1,6 +1,10 @@
 @font-face {
   font-family: "Fira Code", serif;
   src: url(/font/static/FiraCode-Regular.ttf);
+  src: url(/font/static/FiraCode-Bold.ttf);
+  src: url(/font/static/FiraCode-Light.ttf);
+  src: url(/font/static/FiraCode-Medium.ttf);
+  src: url(/font/static/FiraCode-SemiBold.ttf);
 }
 * {
   box-sizing: border-box;
