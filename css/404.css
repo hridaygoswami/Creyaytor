@@ -1,11 +1,4 @@
-@font-face {
-  font-family: "Fira Code";
-  src: url(/font/static/FiraCode-Regular.ttf);
-  src: url(/font/static/FiraCode-Bold.ttf);
-  src: url(/font/static/FiraCode-Light.ttf);
-  src: url(/font/static/FiraCode-Medium.ttf);
-  src: url(/font/static/FiraCode-SemiBold.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Fira%20Code:wght@300..700&display=swap');
 * {
   box-sizing: border-box;
 }
