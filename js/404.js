@@ -209,7 +209,7 @@ function _extends() {_extends = Object.assign || function (target) {for (var i =
     return /*#__PURE__*/(
       React.createElement(AppShell, null, /*#__PURE__*/
       React.createElement(Container, null, /*#__PURE__*/
-      React.createElement(Message, { className: "return-link", href: "../creyaytor-website/creyaytor/index.html", rel: "noreferrer noopener" }, "Return to the Homepage"), /*#__PURE__*/
+      React.createElement(Message, { className: "return-link", href: "./index.html", rel: "noreferrer noopener" }, "Return to the Homepage"), /*#__PURE__*/
   
   
       React.createElement(Logo, { className: "bear-logo--tears" }), /*#__PURE__*/
